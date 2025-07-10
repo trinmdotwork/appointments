@@ -1,0 +1,34 @@
+{
+  "homeAppointment": "Home",
+  "addAppointment": "Add Appointment",
+  "updateAppointment": "Update Appointment",
+  "error": {
+    "unknown": "Failure: An unknown error occurred.",
+    "network": "Failure: No network connection.",
+    "timeout": "Failure: Request timeout.",
+    "custom": "Failure: {{message}}"
+  },
+  "success": {
+    "saved": "Data saved successfully.",
+    "deleted": "Data deleted successfully.",
+    "updated": "Data updated successfully.",
+    "custom": "Success: {{message}}"
+  },
+  "list.empty": "Empty data",
+  "button.continue": "Continue",
+  "button.cancel": "Cancel",
+  "button.done": "Done",
+  "button.send": "Send",
+  "button.close": "Close",
+  "button.delete": "Delete",
+  "button.add": "Add",
+  "button.edit": "Edit",
+  "form.title": "Title",
+  "button.date": "Date",
+  "button.location": "Location",
+  "button.notes": "Notes",
+  "form.title.required": "Title is required",
+  "form.date.required": "Date is required",
+  "form.location.required": "Location is required",
+  "form.invalid": "Form invalid"
+}

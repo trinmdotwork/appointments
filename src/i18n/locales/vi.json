@@ -1,0 +1,34 @@
+{
+  "homeAppointment": "Trang Chủ",
+  "addAppointment": "Thêm Cuộc hẹn",
+  "updateAppointment": "Chỉnh sửa Cuộc hẹn",
+  "error": {
+    "unknown": "Thất bại: Đã xảy ra lỗi không xác định.",
+    "network": "Thất bại: Không có kết nối mạng.",
+    "timeout": "Thất bại: Quá thời gian phản hồi.",
+    "custom": "Thất bại: {{message}}"
+  },
+  "success": {
+    "saved": "Lưu dữ liệu thành công.",
+    "deleted": "Xóa dữ liệu thành công.",
+    "updated": "Cập nhật thành công.",
+    "custom": "Thành công: {{message}}"
+  },
+  "list.empty": "Không có dữ liệu",
+  "button.continue": "Tiếp tục",
+  "button.cancel": "Huỷ",
+  "button.done": "Xong",
+  "button.send": "Gửi",
+  "button.close": "Đóng",
+  "button.delete": "Xoá",
+  "button.add": "Thêm",
+  "button.edit": "Chỉnh sửa",
+  "form.title": "Tên cuộc hẹn",
+  "form.date": "Ngày cuộc hẹn",
+  "form.location": "Địa điểm cuộc hẹn",
+  "form.notes": "Ghi chú cuộc hẹn",
+  "form.title.required": "Tiêu đề là bắt buộc",
+  "form.date.required": "Ngày cuộc là bắt buộc",
+  "form.location.required": "Địa điểm là bắt buộc",
+  "form.invalid": "Biểu mẫu không hợp lệ"
+}
